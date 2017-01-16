@@ -394,3 +394,6 @@
 [submodule "powershell/BloodHound"]
 	path = powershell/BloodHound
 	url = https://github.com/adaptivethreat/BloodHound.git
+[submodule "recon/DVCS-Pillage"]
+	path = recon/DVCS-Pillage
+	url = https://github.com/3vilERS/DVCS-Pillage.git
